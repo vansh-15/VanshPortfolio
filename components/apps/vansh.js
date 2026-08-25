@@ -593,8 +593,8 @@ function Projects() {
     const project_list = [
         {
             name: "UbuntuOS Portfolio",
-            date: "Apr 2021",
-            link: "https://github.com/vansh9patel/vansh9patel.github.io",
+            date: "Aug 2026",
+            link: "https://vansh-15.github.io/VanshPortfolio/",
             description: [
                 "Personal portfolio website of theme Ubuntu 20.04, made using NEXT.js & tailwind CSS",
             ],
